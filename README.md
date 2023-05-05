@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Website](https://www.frontendmentor.io/solutions/results-summary-component-html-and-css-only-w80ZcNcUTg)
-- Live Site URL: [Website](https://lost50u1.github.io/results-summary-component-main/)
+- Solution URL: [Website](https://www.frontendmentor.io/solutions/interactive-rating-component-with-basic-js-Qjowdo3Sfx)
+- Live Site URL: [Website](https://lost50u1.github.io/interactive-rating-component-main/)
 
 ## My process
 

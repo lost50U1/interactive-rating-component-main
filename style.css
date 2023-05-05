@@ -92,7 +92,7 @@ body {
   place-content: center;
 }
 
-main {
+.main {
   background-color: var(--dark-blue);
   width: 100%;
   max-width: 330px;
